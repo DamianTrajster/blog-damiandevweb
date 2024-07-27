@@ -1,47 +1,46 @@
 ---
-sidebar_position: 1
+sidebar_position: 0
+
 ---
 
-# Tutorial Intro 
+# ¡Bienvenidos a las Guías de Mis Cursos!
 
-Let's discover **Docusaurus in less than 5 minutes**.
+¡Hola a todos! Es un placer darles la bienvenida a las guías de mis cursos de **Diseño de Páginas Web**, **Testing de Aplicaciones**, **Trayecto de Programador**, y **Operador/a de Marketing Digital** en el CFP20 y CFP19. Aquí encontrarán toda la información necesaria para aprovechar al máximo sus aprendizajes.
 
-## Getting Started
+## ¿Qué Puedes Esperar?
 
-Get started by **creating a new site**.
+En estas guías, he recopilado recursos y materiales diseñados para complementar tu experiencia de aprendizaje. Cada curso está estructurado para proporcionar tanto conocimientos teóricos como habilidades prácticas que podrás aplicar de inmediato.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+### Diseño de Páginas Web
 
-### What you'll need
+Explora los fundamentos del diseño web, desde HTML y CSS hasta técnicas avanzadas de diseño responsivo y UX/UI. Aprenderás a crear sitios web visualmente atractivos y funcionales.
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
+```html
+ <h1> ¡Hola, mundo! </h1>
 ```
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+### Testing de Aplicaciones
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+Adquiere habilidades críticas en la identificación y resolución de errores en aplicaciones de software. Descubre metodologías de prueba modernas y herramientas esenciales para asegurar la calidad del software.
 
-## Start your site
+### Trayecto de Programador
 
-Run the development server:
+Sumérgete en el mundo de la programación con una serie de módulos que cubren lenguajes de programación clave, desarrollo de algoritmos y mejores prácticas de codificación en PHP.
 
-```bash
-cd my-website
-npm run start
+```php
+ echo "Hola mundo"; 
 ```
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+### Operador/a de Marketing Digital
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+Domina las estrategias de marketing digital, incluyendo SEO, marketing en redes sociales, y análisis de datos. Aprende a diseñar campañas efectivas que impulsen el éxito de las marcas en el entorno digital.
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+## Cómo Usar Estas Guías
+
+Cada sección está diseñada para guiarte a través de los temas más importantes de manera lógica y secuencial. Te recomendamos seguir el orden sugerido y completar las actividades prácticas para maximizar tu comprensión y habilidad.
+
+---
+
+¡Esperamos que disfrutes de estos cursos y aproveches al máximo las oportunidades de aprendizaje que ofrecen! Si tienes preguntas o necesitas más información, no dudes en contactarnos.
+
+¡Buena suerte y disfruta del aprendizaje!
